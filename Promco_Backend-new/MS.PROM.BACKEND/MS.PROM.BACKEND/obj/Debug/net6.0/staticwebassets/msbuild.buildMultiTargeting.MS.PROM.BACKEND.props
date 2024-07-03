@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MS.PROM.BACKEND.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OeSs211hA6GMg/mSjY0NITfhz5gZbUMEyO9uD74UeFk=",
+  "Source": "MS.PROM.BACKEND",
+  "BasePath": "_content/MS.PROM.BACKEND",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
